@@ -6,9 +6,10 @@ Annotated Dataset (Test) link: https://figshare.com/articles/dataset/BreCaHAD_A_
 
 Note: The test set only contains malignant class images.
 
-The following project will focus on finding the architecture (used with GradCAM) with the best explainability efficiency. The proposed architectures for this experiment are:
-* ConvNeXt
-* VisionTrasformer
-* DenseNet201
-* MobileNetV2
-* NASNetMobile
+The proposed architectures for this experiment are:
+*DenseNet121
+*MobileNetV3Small
+*EfficientNetV2S
+*NASNetMobile
+*VGG19
+*Xception
