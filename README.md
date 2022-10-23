@@ -7,6 +7,7 @@ Annotated Dataset (Test) link: https://figshare.com/articles/dataset/BreCaHAD_A_
 Note: The test set only contains malignant class images.
 
 The proposed architectures for this experiment are:
+
 *DenseNet121
 *MobileNetV3Small
 *EfficientNetV2S
