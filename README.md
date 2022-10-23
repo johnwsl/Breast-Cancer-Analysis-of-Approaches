@@ -8,9 +8,9 @@ Note: The test set only contains malignant class images.
 
 The proposed architectures for this experiment are:
 
-*DenseNet121
-*MobileNetV3Small
-*EfficientNetV2S
-*NASNetMobile
-*VGG19
-*Xception
+* DenseNet121
+* MobileNetV3Small
+* EfficientNetV2S
+* NASNetMobile
+* VGG19
+* Xception
