@@ -1,4 +1,4 @@
-# **Breast Cancer - Comparative Analysis (Explainability with GradCAM)**
+# **Breast Cancer - Analysis of Approaches (Explainability with GradCAM)**
 
 Dataset (Train and Validation) link: https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 
